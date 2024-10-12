@@ -1,4 +1,4 @@
-# README - A-19 Domestic Assistant Robot Cognitive Architecture
+ A-19 Domestic Assistant Robot Cognitive Architecture
 
 ## Overview
 
